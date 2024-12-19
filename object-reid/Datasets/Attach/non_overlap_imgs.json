@@ -1,0 +1,528 @@
+{
+    "Hammer": {
+        "03__2__shuttleFront": [
+            3,
+            [
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218348243489000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218438277779000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218768403374000.jpg"
+            ]
+        ],
+        "05__2__spike": [
+            1,
+            [
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729433339143000.jpg"
+            ]
+        ],
+        "18__2__shuttleSide": [
+            2,
+            [
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626262868352858000.jpg",
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263128457213000.jpg"
+            ]
+        ],
+        "23__2__shuttleSide": [
+            2,
+            [
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038476551603000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038496560153000.jpg"
+            ]
+        ],
+        "25__2__shuttleFront": [
+            3,
+            [
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834126901345000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834136909889000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834487038813000.jpg"
+            ]
+        ],
+        "26__2__spike": [
+            2,
+            [
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437261502814000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437491592786000.jpg"
+            ]
+        ],
+        "29__2__shuttleFront": [
+            9,
+            [
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626787927527613000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626787928527275000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626787931528013000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626787951534713000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626787966538246000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626787970542410000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626787972542298000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626787973543951000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788245644697000.jpg"
+            ]
+        ],
+        "32__2__spike": [
+            4,
+            [
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624541738534186000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624541759544714000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624541760544136000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624542052359125000.jpg"
+            ]
+        ],
+        "37__2__shuttleSide": [
+            2,
+            [
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636163118174000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636173121819000.jpg"
+            ]
+        ],
+        "36__2__spike": [
+            5,
+            [
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424051524147000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424054519302000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424057026008000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424083066658000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424087268178000.jpg"
+            ]
+        ]
+    },
+    "Screwdriver": {
+        "03__2__shuttleFront": [
+            4,
+            [
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218698376764000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218718386363000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218728387478000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218738391129000.jpg"
+            ]
+        ],
+        "05__2__spike": [
+            3,
+            [
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729743450334000.jpg",
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729753452288000.jpg",
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729763458256000.jpg"
+            ]
+        ],
+        "18__2__shuttleSide": [
+            4,
+            [
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263148460760000.jpg",
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263168471237000.jpg",
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263178470880000.jpg",
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263188473794000.jpg"
+            ]
+        ],
+        "23__2__shuttleSide": [
+            6,
+            [
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038466549155000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038866705161000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038876703610000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038886710902000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038896717597000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038906719795000.jpg"
+            ]
+        ],
+        "25__2__shuttleFront": [
+            6,
+            [
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834417012331000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834427017518000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834437018783000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834447021887000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834457030027000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834487038813000.jpg"
+            ]
+        ],
+        "26__2__spike": [
+            6,
+            [
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437201480924000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437261502814000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437461579422000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437471587757000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437481590678000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437491592786000.jpg"
+            ]
+        ],
+        "29__2__shuttleFront": [
+            10,
+            [
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788279659604000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788288663027000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788290665469000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788291662647000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788312673284000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788313671256000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788314671952000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788322674438000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788324676485000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788342681085000.jpg"
+            ]
+        ],
+        "32__2__spike": [
+            8,
+            [
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624542019340734000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624542025349054000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624542031346589000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624542035345733000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624542038343628000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624542039347291000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624542045351700000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624542052359125000.jpg"
+            ]
+        ],
+        "37__2__shuttleSide": [
+            6,
+            [
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636163118174000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636443223490000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636453231174000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636463238313000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636473236521000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636493248461000.jpg"
+            ]
+        ],
+        "36__2__spike": [
+            9,
+            [
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424305516397000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424309524807000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424314521327000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424316521946000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424319520565000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424321525892000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424326523840000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424327525048000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424334532198000.jpg"
+            ]
+        ]
+    },
+    "Wrench": {
+        "01__1__shuttleFront": [
+            10,
+            [
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059321413264000.jpg",
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059331417712000.jpg",
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059341419978000.jpg",
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059381435388000.jpg",
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059391438754000.jpg",
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059411447341000.jpg",
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059421449233000.jpg",
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059451462019000.jpg",
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059461469055000.jpg",
+                "../../tapes/01__1__shuttleFront/e4sm_tape-2021-06-30_15-19-01.380105_png.shuttleFront/shuttleFront_Kinect_ColorImage1625059531493948000.jpg"
+            ]
+        ],
+        "03__2__shuttleFront": [
+            14,
+            [
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218488298543000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218508303071000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218518306073000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218548319836000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218558322256000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218568325579000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218588336013000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218608340600000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218618347237000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218628350573000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218648359227000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218658364370000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218678369067000.jpg",
+                "../../tapes/03__2__shuttleFront/e4sm_tape-2021-07-02_11-31-58.257289_png.shuttleFront/shuttleFront_Kinect_ColorImage1625218768403374000.jpg"
+            ]
+        ],
+        "04__0__spike": [
+            14,
+            [
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246624812069000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246634816154000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246644824040000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246684834839000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246704846126000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246714847504000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246724850962000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246734853949000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246744858810000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246764868948000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246774872372000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246804883685000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246814886316000.jpg",
+                "../../tapes/04__0__spike/e4sm_tape-2021-07-14_09-07-04.907159_png.spike/spike_Kinect_ColorImage1626246994956647000.jpg"
+            ]
+        ],
+        "05__2__spike": [
+            7,
+            [
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729583391517000.jpg",
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729623406343000.jpg",
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729633413585000.jpg",
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729643414399000.jpg",
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729653415641000.jpg",
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729693433309000.jpg",
+                "../../tapes/05__2__spike/e4sm_tape-2021-08-23_16-36-53.454066_png.spike/spike_Kinect_ColorImage1629729793466379000.jpg"
+            ]
+        ],
+        "06__0__shuttleSide": [
+            9,
+            [
+                "../../tapes/06__0__shuttleSide/e4sm_tape-2021-07-27_13-07-22.236099_png.shuttleSide/shuttleSide_Kinect_ColorImage1627384072232158000.jpg",
+                "../../tapes/06__0__shuttleSide/e4sm_tape-2021-07-27_13-07-22.236099_png.shuttleSide/shuttleSide_Kinect_ColorImage1627384282310051000.jpg",
+                "../../tapes/06__0__shuttleSide/e4sm_tape-2021-07-27_13-07-22.236099_png.shuttleSide/shuttleSide_Kinect_ColorImage1627384312321590000.jpg",
+                "../../tapes/06__0__shuttleSide/e4sm_tape-2021-07-27_13-07-22.236099_png.shuttleSide/shuttleSide_Kinect_ColorImage1627384352337355000.jpg",
+                "../../tapes/06__0__shuttleSide/e4sm_tape-2021-07-27_13-07-22.236099_png.shuttleSide/shuttleSide_Kinect_ColorImage1627384382352940000.jpg",
+                "../../tapes/06__0__shuttleSide/e4sm_tape-2021-07-27_13-07-22.236099_png.shuttleSide/shuttleSide_Kinect_ColorImage1627384432367382000.jpg",
+                "../../tapes/06__0__shuttleSide/e4sm_tape-2021-07-27_13-07-22.236099_png.shuttleSide/shuttleSide_Kinect_ColorImage1627384492390163000.jpg",
+                "../../tapes/06__0__shuttleSide/e4sm_tape-2021-07-27_13-07-22.236099_png.shuttleSide/shuttleSide_Kinect_ColorImage1627384522401501000.jpg",
+                "../../tapes/06__0__shuttleSide/e4sm_tape-2021-07-27_13-07-22.236099_png.shuttleSide/shuttleSide_Kinect_ColorImage1627384622438805000.jpg"
+            ]
+        ],
+        "10__1__shuttleSide": [
+            6,
+            [
+                "../../tapes/10__1__shuttleSide/e4sm_tape-2021-08-03_15-24-58.597809_png.shuttleSide/shuttleSide_Kinect_ColorImage1627997228632399000.jpg",
+                "../../tapes/10__1__shuttleSide/e4sm_tape-2021-08-03_15-24-58.597809_png.shuttleSide/shuttleSide_Kinect_ColorImage1627997258644052000.jpg",
+                "../../tapes/10__1__shuttleSide/e4sm_tape-2021-08-03_15-24-58.597809_png.shuttleSide/shuttleSide_Kinect_ColorImage1627997268649139000.jpg",
+                "../../tapes/10__1__shuttleSide/e4sm_tape-2021-08-03_15-24-58.597809_png.shuttleSide/shuttleSide_Kinect_ColorImage1627997298659827000.jpg",
+                "../../tapes/10__1__shuttleSide/e4sm_tape-2021-08-03_15-24-58.597809_png.shuttleSide/shuttleSide_Kinect_ColorImage1627997318668047000.jpg",
+                "../../tapes/10__1__shuttleSide/e4sm_tape-2021-08-03_15-24-58.597809_png.shuttleSide/shuttleSide_Kinect_ColorImage1627997408702309000.jpg"
+            ]
+        ],
+        "11__0__shuttleFront": [
+            11,
+            [
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288764367671000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288774370180000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288804385037000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288824386921000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288874409580000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288884415626000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288894416807000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288904424457000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288964445502000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629288994455306000.jpg",
+                "../../tapes/11__0__shuttleFront/e4sm_tape-2021-08-18_14-07-44.211275_png.shuttleFront/shuttleFront_Kinect_ColorImage1629289134508589000.jpg"
+            ]
+        ],
+        "12__0__shuttleFront": [
+            8,
+            [
+                "../../tapes /12__0__shuttleFront/e4sm_tape-2021-06-22_13-06-10.181564_png.shuttleFront/shuttleFront_Kinect_ColorImage1624360262029945000.jpg",
+                "../../tapes /12__0__shuttleFront/e4sm_tape-2021-06-22_13-06-10.181564_png.shuttleFront/shuttleFront_Kinect_ColorImage1624360302045483000.jpg",
+                "../../tapes /12__0__shuttleFront/e4sm_tape-2021-06-22_13-06-10.181564_png.shuttleFront/shuttleFront_Kinect_ColorImage1624360342060014000.jpg",
+                "../../tapes /12__0__shuttleFront/e4sm_tape-2021-06-22_13-06-10.181564_png.shuttleFront/shuttleFront_Kinect_ColorImage1624360352064958000.jpg",
+                "../../tapes /12__0__shuttleFront/e4sm_tape-2021-06-22_13-06-10.181564_png.shuttleFront/shuttleFront_Kinect_ColorImage1624360362066566000.jpg",
+                "../../tapes /12__0__shuttleFront/e4sm_tape-2021-06-22_13-06-10.181564_png.shuttleFront/shuttleFront_Kinect_ColorImage1624360392078628000.jpg",
+                "../../tapes /12__0__shuttleFront/e4sm_tape-2021-06-22_13-06-10.181564_png.shuttleFront/shuttleFront_Kinect_ColorImage1624360452100707000.jpg",
+                "../../tapes /12__0__shuttleFront/e4sm_tape-2021-06-22_13-06-10.181564_png.shuttleFront/shuttleFront_Kinect_ColorImage1624360532134261000.jpg"
+            ]
+        ],
+        "13__1__shuttleFront": [
+            10,
+            [
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079728968727000.jpg",
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079758975063000.jpg",
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079768977848000.jpg",
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079778981859000.jpg",
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079808996788000.jpg",
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079829000460000.jpg",
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079839004519000.jpg",
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079859012130000.jpg",
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079879022378000.jpg",
+                "../../tapes /13__1__shuttleFront/e4sm_tape-2021-08-04_14-19-48.943343_png.shuttleFront/shuttleFront_Kinect_ColorImage1628079929041510000.jpg"
+            ]
+        ],
+        "14__1__spike": [
+            3,
+            [
+                "../../tapes/14__1__spike/e4sm_tape-2021-06-18_10-38-32.848271_png.spike/spike_Kinect_ColorImage1624005612782900000.jpg",
+                "../../tapes/14__1__spike/e4sm_tape-2021-06-18_10-38-32.848271_png.spike/spike_Kinect_ColorImage1624005882886921000.jpg",
+                "../../tapes/14__1__spike/e4sm_tape-2021-06-18_10-38-32.848271_png.spike/spike_Kinect_ColorImage1624005902895055000.jpg"
+            ]
+        ],
+        "15__0__spike": [
+            6,
+            [
+                "../../tapes /15__0__spike/e4sm_tape-2021-07-30_13-10-07.113525_png.spike/spike_Kinect_ColorImage1627643416949962000.jpg",
+                "../../tapes /15__0__spike/e4sm_tape-2021-07-30_13-10-07.113525_png.spike/spike_Kinect_ColorImage1627643757084357000.jpg",
+                "../../tapes /15__0__spike/e4sm_tape-2021-07-30_13-10-07.113525_png.spike/spike_Kinect_ColorImage1627643777091684000.jpg",
+                "../../tapes /15__0__spike/e4sm_tape-2021-07-30_13-10-07.113525_png.spike/spike_Kinect_ColorImage1627643787094010000.jpg",
+                "../../tapes /15__0__spike/e4sm_tape-2021-07-30_13-10-07.113525_png.spike/spike_Kinect_ColorImage1627643827109082000.jpg",
+                "../../tapes /15__0__spike/e4sm_tape-2021-07-30_13-10-07.113525_png.spike/spike_Kinect_ColorImage1627643857122041000.jpg"
+            ]
+        ],
+        "16__1__spike": [
+            9,
+            [
+                "../../tapes /16__1__spike/e4sm_tape-2021-07-07_10-25-17.118043_png.spike/spike_Kinect_ColorImage1625646477045742000.jpg",
+                "../../tapes /16__1__spike/e4sm_tape-2021-07-07_10-25-17.118043_png.spike/spike_Kinect_ColorImage1625646487046855000.jpg",
+                "../../tapes /16__1__spike/e4sm_tape-2021-07-07_10-25-17.118043_png.spike/spike_Kinect_ColorImage1625646507055040000.jpg",
+                "../../tapes /16__1__spike/e4sm_tape-2021-07-07_10-25-17.118043_png.spike/spike_Kinect_ColorImage1625646527060505000.jpg",
+                "../../tapes /16__1__spike/e4sm_tape-2021-07-07_10-25-17.118043_png.spike/spike_Kinect_ColorImage1625646537060570000.jpg",
+                "../../tapes /16__1__spike/e4sm_tape-2021-07-07_10-25-17.118043_png.spike/spike_Kinect_ColorImage1625646567077964000.jpg",
+                "../../tapes /16__1__spike/e4sm_tape-2021-07-07_10-25-17.118043_png.spike/spike_Kinect_ColorImage1625646577076932000.jpg",
+                "../../tapes /16__1__spike/e4sm_tape-2021-07-07_10-25-17.118043_png.spike/spike_Kinect_ColorImage1625646607093181000.jpg",
+                "../../tapes /16__1__spike/e4sm_tape-2021-07-07_10-25-17.118043_png.spike/spike_Kinect_ColorImage1625646617091642000.jpg"
+            ]
+        ],
+        "18__2__shuttleSide": [
+            6,
+            [
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626262958387141000.jpg",
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263028414734000.jpg",
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263038417170000.jpg",
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263058424272000.jpg",
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263088439057000.jpg",
+                "../../tapes/18__2__shuttleSide/e4sm_tape-2021-07-14_13-40-08.365990_png.shuttleSide/shuttleSide_Kinect_ColorImage1626263128457213000.jpg"
+            ]
+        ],
+        "21__0__shuttleSide": [
+            10,
+            [
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123327342891000.jpg",
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123377361385000.jpg",
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123457392603000.jpg",
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123477398229000.jpg",
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123487402526000.jpg",
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123507410237000.jpg",
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123517414132000.jpg",
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123537420379000.jpg",
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123557428858000.jpg",
+                "../../tapes /21__0__shuttleSide/e4sm_tape-2021-07-01_09-04-17.242391_png.shuttleSide/shuttleSide_Kinect_ColorImage1625123627460471000.jpg"
+            ]
+        ],
+        "22__1__shuttleSide": [
+            8,
+            [
+                "../../tapes /22__1__shuttleSide/e4sm_tape-2021-08-10_14-20-33.911121_png.shuttleSide/shuttleSide_Kinect_ColorImage1628598233966088000.jpg",
+                "../../tapes /22__1__shuttleSide/e4sm_tape-2021-08-10_14-20-33.911121_png.shuttleSide/shuttleSide_Kinect_ColorImage1628598273982508000.jpg",
+                "../../tapes /22__1__shuttleSide/e4sm_tape-2021-08-10_14-20-33.911121_png.shuttleSide/shuttleSide_Kinect_ColorImage1628598283985224000.jpg",
+                "../../tapes /22__1__shuttleSide/e4sm_tape-2021-08-10_14-20-33.911121_png.shuttleSide/shuttleSide_Kinect_ColorImage1628598293984313000.jpg",
+                "../../tapes /22__1__shuttleSide/e4sm_tape-2021-08-10_14-20-33.911121_png.shuttleSide/shuttleSide_Kinect_ColorImage1628598334003165000.jpg",
+                "../../tapes /22__1__shuttleSide/e4sm_tape-2021-08-10_14-20-33.911121_png.shuttleSide/shuttleSide_Kinect_ColorImage1628598354012589000.jpg",
+                "../../tapes /22__1__shuttleSide/e4sm_tape-2021-08-10_14-20-33.911121_png.shuttleSide/shuttleSide_Kinect_ColorImage1628598364014617000.jpg",
+                "../../tapes /22__1__shuttleSide/e4sm_tape-2021-08-10_14-20-33.911121_png.shuttleSide/shuttleSide_Kinect_ColorImage1628598444045914000.jpg"
+            ]
+        ],
+        "23__2__shuttleSide": [
+            11,
+            [
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038466549155000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038626609917000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038656621731000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038696636600000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038726652138000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038736651425000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038746654650000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038766669668000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038776671258000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038786671413000.jpg",
+                "../../tapes /23__2__shuttleSide/e4sm_tape-2021-06-30_09-34-16.552542_png.shuttleSide/shuttleSide_Kinect_ColorImage1625038806680714000.jpg"
+            ]
+        ],
+        "25__2__shuttleFront": [
+            9,
+            [
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834216939467000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834236944161000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834246949442000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834256951808000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834326981627000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834336982368000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834346985602000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834376999841000.jpg",
+                "../../tapes /25__2__shuttleFront/e4sm_tape-2021-07-09_14-34-26.895517_png.shuttleFront/shuttleFront_Kinect_ColorImage1625834487038813000.jpg"
+            ]
+        ],
+        "26__2__spike": [
+            8,
+            [
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437291515750000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437301521105000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437331528155000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437351537798000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437371546753000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437411562279000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437451573952000.jpg",
+                "../../tapes /26__2__spike/e4sm_tape-2021-06-23_10-33-01.599807_png.spike/spike_Kinect_ColorImage1624437491592786000.jpg"
+            ]
+        ],
+        "28__1__spike": [
+            8,
+            [
+                "../../tapes/28__1__spike/e4sm_tape-2021-06-28_14-18-28.992397_png.spike/spike_Kinect_ColorImage1624882768908439000.jpg",
+                "../../tapes/28__1__spike/e4sm_tape-2021-06-28_14-18-28.992397_png.spike/spike_Kinect_ColorImage1624882888954018000.jpg",
+                "../../tapes/28__1__spike/e4sm_tape-2021-06-28_14-18-28.992397_png.spike/spike_Kinect_ColorImage1624882928972612000.jpg",
+                "../../tapes/28__1__spike/e4sm_tape-2021-06-28_14-18-28.992397_png.spike/spike_Kinect_ColorImage1624882958984703000.jpg",
+                "../../tapes/28__1__spike/e4sm_tape-2021-06-28_14-18-28.992397_png.spike/spike_Kinect_ColorImage1624882978991094000.jpg",
+                "../../tapes/28__1__spike/e4sm_tape-2021-06-28_14-18-28.992397_png.spike/spike_Kinect_ColorImage1624883009002216000.jpg",
+                "../../tapes/28__1__spike/e4sm_tape-2021-06-28_14-18-28.992397_png.spike/spike_Kinect_ColorImage1624883019004780000.jpg",
+                "../../tapes/28__1__spike/e4sm_tape-2021-06-28_14-18-28.992397_png.spike/spike_Kinect_ColorImage1624883039011038000.jpg"
+            ]
+        ],
+        "29__2__shuttleFront": [
+            26,
+            [
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788074581574000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788084585830000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788097589079000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788103592858000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788118597365000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788128599796000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788137603989000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788141602912000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788143607451000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788145608114000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788147607975000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788148607805000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788169614355000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788192626464000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788193626282000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788199625821000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788200628841000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788201630653000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788202626053000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788212633674000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788217633694000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788225638150000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788226637218000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788227637969000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788230641629000.jpg",
+                "../../tapes/29__2__shuttleFront/e4sm_tape-2021-07-20_15-31-35.523041_png.shuttleFront/shuttleFront_Kinect_ColorImage1626788342681085000.jpg"
+            ]
+        ],
+        "32__2__spike": [
+            4,
+            [
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624541828471050000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624541865918308000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624541925844637000.jpg",
+                "../../tapes_tool_selection_0/32__2__spike/e4sm_tape-2021-06-24_15-35-04.423066_png.spike/spike_Kinect_ColorImage1624541972956018000.jpg"
+            ]
+        ],
+        "37__2__shuttleSide": [
+            7,
+            [
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636293167282000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636313176164000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636333187041000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636363193958000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636403208624000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636473236521000.jpg",
+                "../../tapes/37__2__shuttleSide/e4sm_tape-2021-07-30_11-09-03.111090_png.shuttleSide/shuttleSide_Kinect_ColorImage1627636493248461000.jpg"
+            ]
+        ],
+        "36__2__spike": [
+            6,
+            [
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424176568146000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424183572202000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424265569939000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424269568873000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424288109101000.jpg",
+                "../../tapes_tool_selection_0/36__2__spike/e4sm_tape-2021-07-16_10-26-59.577157_png.spike/spike_Kinect_ColorImage1626424334532198000.jpg"
+            ]
+        ]
+    }
+}

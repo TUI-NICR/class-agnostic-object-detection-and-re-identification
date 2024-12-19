@@ -1,0 +1,343 @@
+{
+    "cutter": {
+        "sha__cutter": [
+            9,
+            [
+                "image_00014.png",
+                "image_00026.png",
+                "image_00050.png",
+                "image_00108.png",
+                "image_00109.png",
+                "image_00112.png",
+                "image_00115.png",
+                "image_00145.png",
+                "image_00149.png"
+            ]
+        ],
+        "xiaoling__1_1": [
+            8,
+            [
+                "image_00063.png",
+                "image_00064.png",
+                "image_00069.png",
+                "image_00110.png",
+                "image_00136.png",
+                "image_00141.png",
+                "image_00145.png",
+                "image_00150.png"
+            ]
+        ],
+        "zhi__1_1": [
+            14,
+            [
+                "image_00018.png",
+                "image_00025.png",
+                "image_00037.png",
+                "image_00042.png",
+                "image_00045.png",
+                "image_00047.png",
+                "image_00056.png",
+                "image_00059.png",
+                "image_00066.png",
+                "image_00071.png",
+                "image_00110.png",
+                "image_00135.png",
+                "image_00144.png",
+                "image_00150.png"
+            ]
+        ]
+    },
+    "eraser": {
+        "sha__eraser": [
+            12,
+            [
+                "image_00008.png",
+                "image_00020.png",
+                "image_00025.png",
+                "image_00075.png",
+                "image_00081.png",
+                "image_00088.png",
+                "image_00091.png",
+                "image_00131.png",
+                "image_00135.png",
+                "image_00143.png",
+                "image_00144.png",
+                "image_00149.png"
+            ]
+        ],
+        "xiaoling__1_2": [
+            10,
+            [
+                "image_00052.png",
+                "image_00065.png",
+                "image_00072.png",
+                "image_00082.png",
+                "image_00106.png",
+                "image_00116.png",
+                "image_00123.png",
+                "image_00146.png",
+                "image_00147.png",
+                "image_00150.png"
+            ]
+        ],
+        "zhi__1_2": [
+            28,
+            [
+                "image_00013.png",
+                "image_00024.png",
+                "image_00035.png",
+                "image_00040.png",
+                "image_00044.png",
+                "image_00051.png",
+                "image_00052.png",
+                "image_00058.png",
+                "image_00064.png",
+                "image_00066.png",
+                "image_00078.png",
+                "image_00084.png",
+                "image_00085.png",
+                "image_00096.png",
+                "image_00097.png",
+                "image_00099.png",
+                "image_00102.png",
+                "image_00106.png",
+                "image_00110.png",
+                "image_00111.png",
+                "image_00120.png",
+                "image_00124.png",
+                "image_00131.png",
+                "image_00133.png",
+                "image_00135.png",
+                "image_00142.png",
+                "image_00147.png",
+                "image_00148.png"
+            ]
+        ]
+    },
+    "glue": {
+        "sha__1_2": [
+            16,
+            [
+                "image_00017.png",
+                "image_00020.png",
+                "image_00033.png",
+                "image_00042.png",
+                "image_00046.png",
+                "image_00057.png",
+                "image_00086.png",
+                "image_00092.png",
+                "image_00101.png",
+                "image_00108.png",
+                "image_00124.png",
+                "image_00128.png",
+                "image_00131.png",
+                "image_00132.png",
+                "image_00140.png",
+                "image_00147.png"
+            ]
+        ],
+        "zhi__glue": [
+            21,
+            [
+                "image_00004.png",
+                "image_00013.png",
+                "image_00019.png",
+                "image_00026.png",
+                "image_00034.png",
+                "image_00045.png",
+                "image_00051.png",
+                "image_00076.png",
+                "image_00082.png",
+                "image_00088.png",
+                "image_00093.png",
+                "image_00094.png",
+                "image_00099.png",
+                "image_00117.png",
+                "image_00126.png",
+                "image_00130.png",
+                "image_00132.png",
+                "image_00135.png",
+                "image_00139.png",
+                "image_00144.png",
+                "image_00148.png"
+            ]
+        ]
+    },
+    "hammer": {
+        "zhi__2_1": [
+            2,
+            [
+                "image_00111.png",
+                "image_00143.png"
+            ]
+        ],
+        "zhi__2_2": [
+            1,
+            [
+                "image_00150.png"
+            ]
+        ]
+    },
+    "measure": {
+        "sha__2_1": [
+            20,
+            [
+                "image_00001.png",
+                "image_00007.png",
+                "image_00063.png",
+                "image_00066.png",
+                "image_00072.png",
+                "image_00078.png",
+                "image_00089.png",
+                "image_00090.png",
+                "image_00104.png",
+                "image_00105.png",
+                "image_00122.png",
+                "image_00124.png",
+                "image_00129.png",
+                "image_00130.png",
+                "image_00131.png",
+                "image_00132.png",
+                "image_00134.png",
+                "image_00143.png",
+                "image_00147.png",
+                "image_00148.png"
+            ]
+        ],
+        "zhi__3_1": [
+            7,
+            [
+                "image_00001.png",
+                "image_00002.png",
+                "image_00015.png",
+                "image_00020.png",
+                "image_00038.png",
+                "image_00094.png",
+                "image_00107.png"
+            ]
+        ]
+    },
+    "pencil": {
+        "sha__2_2": [
+            8,
+            [
+                "image_00008.png",
+                "image_00023.png",
+                "image_00041.png",
+                "image_00055.png",
+                "image_00068.png",
+                "image_00099.png",
+                "image_00145.png",
+                "image_00150.png"
+            ]
+        ],
+        "sha__4_1": [
+            3,
+            [
+                "image_00012.png",
+                "image_00022.png",
+                "image_00028.png"
+            ]
+        ],
+        "xiaoling__1_2": [
+            3,
+            [
+                "image_00015.png",
+                "image_00037.png",
+                "image_00049.png"
+            ]
+        ],
+        "zhi__3_2": [
+            11,
+            [
+                "image_00015.png",
+                "image_00076.png",
+                "image_00092.png",
+                "image_00094.png",
+                "image_00095.png",
+                "image_00115.png",
+                "image_00135.png",
+                "image_00136.png",
+                "image_00139.png",
+                "image_00145.png",
+                "image_00148.png"
+            ]
+        ]
+    },
+    "pliers": {
+        "sha__1_1": [
+            1,
+            [
+                "image_00150.png"
+            ]
+        ],
+        "zhi__2_2": [
+            1,
+            [
+                "image_00150.png"
+            ]
+        ]
+    },
+    "ratchet": {
+        "xiaoling__3_2": [
+            2,
+            [
+                "image_00105.png",
+                "image_00130.png"
+            ]
+        ]
+    },
+    "ruler": {
+        "sha__4_1": [
+            1,
+            [
+                "image_00028.png"
+            ]
+        ],
+        "xiaoling__1_1": [
+            1,
+            [
+                "image_00150.png"
+            ]
+        ],
+        "zhi__3_2": [
+            3,
+            [
+                "image_00101.png",
+                "image_00120.png",
+                "image_00150.png"
+            ]
+        ]
+    },
+    "saw": {
+        "sha__4_1": [
+            2,
+            [
+                "image_00039.png",
+                "image_00150.png"
+            ]
+        ],
+        "xiaoling__4_1": [
+            1,
+            [
+                "image_00149.png"
+            ]
+        ]
+    },
+    "scissors": {
+        "xiaoling__4_2": [
+            2,
+            [
+                "image_00144.png",
+                "image_00149.png"
+            ]
+        ],
+        "zhi__6_2": [
+            2,
+            [
+                "image_00005.png",
+                "image_00150.png"
+            ]
+        ]
+    }
+}

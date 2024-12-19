@@ -1,0 +1,16 @@
+
+MODEL:
+  DEPTH: 50
+  REDUCTION_DIM: 2048
+
+TEST:
+  WEIGHTS: "/path/to/SuperGlobal/weight/CVPR2022_CVNet_R50.pyth"
+  DATA_DIR: "./toDataset"
+  DATASET: "('combined_tools_co3d_reid_v1')"
+  SCALE_LIST: 5
+SupG:
+  relup: True
+  gemp: True
+  rgem: True
+  sgem: True
+  rerank: False

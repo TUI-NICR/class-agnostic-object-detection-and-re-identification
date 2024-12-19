@@ -1,0 +1,73 @@
+MODEL:
+  PRETRAIN_CHOICE: 'self'
+  PRETRAIN_PATH: '/path/to/.cache/torch/checkpoints/resnet50-19c8e357.pth' # from https://download.pytorch.org/models/resnet50-19c8e357.pth
+  CENTER_LOSS: 'on'
+  CENTER_FEAT_DIM: 2048
+  NAME: 'resnet50_nl'
+  WEIGHT_REGULARIZED_TRIPLET: 'on'
+  GENERALIZED_MEAN_POOL: 'on'
+  REDUCE_DIM: 'off'
+  REDUCED_DIM: 2048
+
+INPUT:
+  IMG_SIZE: [192, 192]
+  PROB: 0.5 # random horizontal flip
+  RE_PROB: 0.0 # random erasing
+  PADDING: 10
+
+DATASETS:
+  NAMES: ('combined_tools_redwood_reid_v1')
+
+DATALOADER:
+  PK_SAMPLER: 'on'
+  NUM_INSTANCE: 4
+  NUM_WORKERS: 8
+  CLASS_SAMPLER: 'on'
+  NUM_CLASS : 16
+
+SOLVER:
+  OPTIMIZER_NAME: 'Adam'
+  MAX_EPOCHS: 12
+  BASE_LR: 0.000035
+
+  CENTER_LR: 0.5
+  CENTER_LOSS_WEIGHT: 0.0005
+
+  WEIGHT_DECAY: 0.0005
+  IMS_PER_BATCH: 64
+
+  STEPS: [7, 10]
+  GAMMA: 0.1
+
+  WARMUP_FACTOR: 0.1
+  WARMUP_ITERS: 1
+  WARMUP_METHOD: 'linear'
+
+  CHECKPOINT_PERIOD: 1  # in epochs
+  LOG_PERIOD: 20        # in iterations
+  EVAL_PERIOD: 1        # in epochs
+
+TEST:
+  IMS_PER_BATCH: 128
+  RE_RANKING: 'off'
+  WEIGHT: "./log/Sampling/co3d_reid_v10/v29/resnet50_nl_checkpoint_32532.pt"
+  FEAT_NORM: 'on'
+  EVALUATE_ONLY: 'off'
+  PARTIAL_REID: 'off'
+  SAVE_MEMORY: 'on'
+  SAVE_MEMORY_BLOCK: 4096
+
+INFERENCE:
+ DO_INFERENCE: 'on'
+ SAMPLES: 51
+ NUM_RETRIEVE: 15
+ OUTPUT: "inference_res.json"
+
+WANDB:
+ LOG_WANDB: 'off'
+ PROJECT: "Sampling"
+ NOTES: "Examination of influence of sampling techniques."
+ TAGS: ["test", "co3d_reid_v1"]
+
+OUTPUT_DIR: "."
+OUTPUT_VERSIONING: 'off'

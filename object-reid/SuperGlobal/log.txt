@@ -1,0 +1,9 @@
+Start print log
+Start print log
+Start print log
+Start print log
+Start print log
+Start print log
+Start print log
+Start print log
+Retrieval results: mAP E: 98.05, M: 88.76, H: 77.1
